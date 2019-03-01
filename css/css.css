@@ -20,7 +20,7 @@
 }
 #b² .tp{
 	font-size: 20px;
-	color: blue;
+	color: #008800;
 	font-family: "impact";
 	text-align: center;
 }
@@ -32,7 +32,7 @@
 }
 #titulo h1{
 	background-image: url("../fotos/images.jpg");
-	color:blue;
+	color:#008800;
 	height: 80px;
 	padding-top: 70px;
 }
@@ -41,7 +41,7 @@
 }
 #fundo_menu{
 	width: 1490px;
-	background-color:blue;
+	background-color:#008800;
 	position: absolute;
 }
 #menu_flut{
@@ -50,7 +50,7 @@
 	text-align: center;
 }
 #menu_flut li{
-	background-color:blue;
+	background-color:#008800;
 	float: left;
 	padding:5px;
 	text-align: center;
@@ -62,10 +62,10 @@
 }
 #menu_flut li:hover{
 	background-color: white; 
-	color:blue;
+	color:#008800;
 }
 #sidebar_fundo{
-	background-color:blue; 
+	background-color:#008800; 
 }
 #sidebar{
 
@@ -78,7 +78,7 @@
 	
 	width: 100%;
 	list-style: none;
-	background-color:blue;
+	background-color:#008800;
 	color: white;
 	font-size: 16px;
 	font-family: "Bauhaus 93";
@@ -87,7 +87,7 @@
 }
 #sidebar li:hover{
 	background-color: white; 
-	color:blue;
+	color:#008800;
 }
 #conteudo{
 	clear: left;
@@ -99,11 +99,11 @@ td{
 	border:solid 1px;
 }
 .vm_b{
-	background-color:blue;
+	background-color:#008800;
 	color: white;
 }
 .b_vm{
-	color:blue;
+	color:#008800;
 	background-color:white;
 }
 #form{
@@ -117,7 +117,7 @@ td{
 	height:20px;
 	font-family: 'impact';
 	color: white;
-	background-color:blue;
+	background-color:#008800;
 	border-style: none;
 	font-size: 14px;
 }
